@@ -1,0 +1,54 @@
+{
+    "training_videos": [
+        {
+            "url": "https://www.youtube.com/watch?v=vZ2zK_Ph4ko",
+            "language": "hindi",
+            "category": "comic"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=5mr7AdmjSdc&t=591s",
+            "language": "hindi",
+            "category": "comic"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=kclMvQccSAA",
+            "language": "hindi",
+            "category": "horror"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=zL5j-fKidFY",
+            "language": "hindi",
+            "category": "horror"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=xN3JQ04o5vI",
+            "language": "hindi",
+            "category": "tech"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=4XsfwD1ZwlU",
+            "language": "hindi",
+            "category": "tech"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=FesHZe0PCak",
+            "language": "hindi",
+            "category": "geopolitics"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=V6Ks7PzDDQk",
+            "language": "hindi",
+            "category": "geopolitics"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=oRZ0cfZ9SeU",
+            "language": "hindi",
+            "category": "music"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=BBAyRBTfsOU",
+            "language": "hindi",
+            "category": "music"
+        }
+    ]
+}
